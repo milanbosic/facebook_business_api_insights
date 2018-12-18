@@ -2,7 +2,7 @@
 Python script that utilizes the Facebook Business API to get stats for the relevant Facebook Ad account and its campaigns, and output and save to a file. Ability to enter desired time frame via console.
 
 ## Prerequisites
-Install the latest version of Facebook Business SDK for Python
+Install the latest version of Facebook Business SDK for Python:
 ```python
 pip install facebook_business
 ```
