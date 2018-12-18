@@ -1,6 +1,12 @@
 # Facebook Business API Account and Campaign Insights
 Python script that utilizes the Facebook Business API to get stats for the relevant Facebook Ad account and its campaigns, and output and save to a file. Ability to enter desired time frame via console.
 
+## Prerequisites
+Install the latest version of Facebook Business SDK for Python
+```python
+pip install facebook_business
+```
+
 ## Facebook Session
 Change the starting parameters (access token, app secret, app id, and account id) to your values.
 
